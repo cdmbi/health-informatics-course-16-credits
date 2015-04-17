@@ -1,4 +1,4 @@
-﻿Integrative Medical Informatics
+#﻿Integrative Medical Informatics
 for Med Tech
 
 
@@ -9,11 +9,11 @@ At the end of this course, students will have realized importance of data and da
 
 
 
-Course description
+###Course description
 
 
 
-Course syllabus
+###Course syllabus
 
 
 
